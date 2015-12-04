@@ -1,7 +1,7 @@
 Java Projects
 =============
 
-**Java game projects**
+**Java game projects**  
 The following is a list of folder names in this repository corresponding to projects/games implemented in Java  
 
 1. 'Barcode reading and outputting'  
